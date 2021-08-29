@@ -2,8 +2,8 @@
 
 # Data Warehouse e Visualização Gerencial para Análise de Processos Judiciais Passivos
 
-#### Alun(o/a): [Josué Ambrosio Leal](https://github.com/josuealeal).
-#### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds).
+#### Aluno: [Josué Ambrosio Leal](https://github.com/josuealeal).
+#### Orientador: [Anderson Nascimento](https://github.com/insightds).
 
 ---
 
