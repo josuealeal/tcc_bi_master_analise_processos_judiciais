@@ -17,8 +17,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Uma empresa adquiriu um software de prateleira para organizar e registrar os processos judiciais passivos recebidos, sendo eles tributários, ambientais, cíveis e trabalhistas. Porém o referido programa apenas fornece aos usuários das informações dados do ambiente transacional. O objetivo desta solução é fornecer dados históricos e incrementais que estejam disponíveis para que os stakeholders interessados tenham acesso a dados necessários para suas análises gerenciais e tomadas de decisões.
-Para chegar ao objetivo desejado a companhia deseja construir um data warehouse , a fim de entender sua exposição ao risco relacionado a tais despesas jurídicas, bem como sua evolução anual. 
+Uma empresa adquiriu um software de prateleira para organizar e registrar os processos judiciais passivos recebidos, sendo eles tributários, ambientais, cíveis e trabalhistas. Porém o referido programa apenas fornece aos usuários das informações dados do ambiente transacional. O objetivo desta solução é o de fornecer dados históricos e incrementais que estejam disponíveis para que os stakeholders (partes interessadas) tenham acesso aos dados necessários para suas análises gerenciais e tomadas de decisões.
+Para chegar ao propósito desejado a companhia deseja construir um data warehouse , a fim de melhor entender, de forma tempestiva, clara, comparável e confiável sua exposição ao risco relacionado a tais despesas jurídicas, bem como sua evolução ao longo do tempo. 
 
 ---
 
